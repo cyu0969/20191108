@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPECup</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- 권한 화면 -->
+    <string name="permission_checking">권한 확인중...</string>
+    <string name="permission_setting_title">권한 설정</string>
+    <string name="permission_setting_message">앱을 실행하기 위해서는 권한 설정을 해야 합니다!</string>
+    <string name="permission_setting_restart">권한을 설정하고 다시 실행해주세요!</string>
+
+    <!-- 시작 화면 -->
+    <string name="index_message">취준생을 위한\n맞춤 자격증 추천\nSpecup</string>
+    <string name="certification">Certification</string>
+
+    <string name="submit">확인</string>
+    <string name="network_not_working">네크워크에 연결되어 있지 않습니다.\n확인후 다시 실행해주세요.</string>
+
+    <!-- 왼쪽 메뉴 -->
+    <string name="nav_list">자격증</string>
+    <string name="nav_map">스케줄러</string>
+    <string name="nav_keep">즐겨찾기</string>
+    <string name="nav_register">게시판</string>
+    <string name="nav_profile">프로필설정</string>
+    <string name="nav_setting">설정</string>
+
+    <!-- 공통 -->
+    <string name="skip_string">...</string>
+
+    <string name="close">닫기</string>
+    <string name="cancel">취소</string>
+    <string name="setting">설정</string>
+    <string name="prev">이전</string>
+    <string name="next">다음</string>
+    <string name="complete">완료</string>
+
+    <!-- 프로필 -->
+    <string name="profile_setting">프로필 설정</string>
+
+    <string name="profile_name">이름</string>
+    <string name="profile_sextype">성별</string>
+    <string name="profile_birth">생일</string>
+    <string name="profile_phone">전화</string>
+
+    <string name="sex_man">남자</string>
+    <string name="sex_woman">여자</string>
+
+    <string name="device_number">기기 번호</string>
+    <string name="phone_number">전화 번호</string>
+
+    <string name="name_need">이름을 설정해주세요</string>
+    <string name="change_save">변경사항을 저장하시겠습니까?</string>
+
+    <string name="no_change">변경된 사항이 없습니다</string>
+    <string name="no_data">데이터가 없습니다</string>
+
+    <string name="member_insert_fail_message">사용자 등록에 실패하였습니다. 다시 시도해주세요.</string>
+
+    <!-- 프로필 아이콘 -->
+    <string name="albumn">앨범</string>
+    <string name="camera">카메라</string>
+
+    <!-- 맛집 등록 -->
+    <string name="bestfood_register">게시판 등록</string>
+    <string name="input_bestfood_name">제목을 입력해주세요</string>
+    <string name="input_bestfood_address">닉네임를 입력해주세요</string>
+    <string name="input_bestfood_tel">전화번호를 입력해주세요</string>
+    <string name="input_bestfood_description">내용을 입력해주세요</string>
+    <string name="input_bestfood_image_memo">이미지 설명을 입력해주세요(생략가능)</string>
+    <string name="input_text_length">글자수 :</string>
+    <string name="input_text_max_length">/500</string>
+
+    <string name="not_valid_tel_number">잘못된 닉네임입니다.</string>
+
+
+    <!-- 맛집 이미지 등록 화면 -->
+    <string name="title_bestfood_image_register">이미지 등록</string>
+    <string name="no_image_ready">이미지를 준비중입니다. 잠시 후에 다시 시도해주세요</string>
+    <string name="no_image_selected">이미지를 먼저 선택해주세요</string>
+
+    <!-- 맛집 리스트 화면 -->
+    <string name="order_meter">인기 자격증</string>
+    <string name="order_favorite">최근 추가된 자격증</string>
+    <string name="order_recent">추천 자격증</string>
+
+    <!-- 지도 리스트 화면 -->
+    <string name="list_open">목록보기</string>
+    <string name="list_close">목록닫기</string>
+    <string name="no_list">현재 위치에는 조회할 데이터가 없습니다.</string>
+    <string name="message_zoom_level_max_over">지도를 좀 더 확대해야 배너가 보입니다.</string>
+    <string name="unit_m">m</string>
+    <string name="unit_km">Km</string>
+    <!-- DialogLib.java -->
+    <string name="keep_insert">즐겨찾기 등록</string>
+    <string name="keep_insert_message">즐겨찾기에 등록하시겠습니까?</string>
+
+    <string name="keep_delete">즐겨찾기 삭제</string>
+    <string name="keep_delete_message">즐겨찾기에서 삭제하시겠습니까?</string>
+
+    <!-- 맛집 정보 화면 -->
+    <string name="description">상세설명</string>
+    <string name="map">지도</string>
+    <string name="location">위치보기</string>
+    <string name="no_text">없음</string>
+    <string name="loading">잠시만 기다려주세요</string>
+    <string name="loading_not">잠시후에 다시 시도해주세요</string>
+
+    <!-- 즐겨찾기 -->
+    <string name="no_keep">즐겨찾기에 등록된 자격증이 없습니다.</string>
+
+    <!-- 시간표 -->
+    <string name="save">저장</string>
+    <string name="select_color">색을 선택해주세요.</string>
+    <string name="select_time">시간 지정</string>
+    <string name="time_dialog">시간:</string>
+    <string name="select_date">날자 지정</string>
+    <string name="date_dialog">날자:</string>
+    <string name="room_dialog">위치:</string>
+    <string name="teacher_dialog">선생님:</string>
+    <string name="subject_dialog">과목:</string>
+    <string name="description_dialog">설명:</string>
+    <string name="deadline_dialog">기한:</string>
+    <string name="title_dialog">제목:</string>
+    <string name="time_to_dialog">부터:</string>
+    <string name="time_from_dialog">까지:</string>
+    <string name="email_dialog">Email:</string>
+    <string name="phonenumber_dialog">Phone:</string>
+    <string name="post_dialog">Post:</string>
+    <string name="name_dialog">이름:</string>
+    <string name="time">시간</string>
+    <string name="date">날자</string>
+    <string name="room">장소</string>
+    <string name="teacher">선생님</string>
+    <string name="subject">과목</string>
+    <string name="desctiption">내용</string>
+    <string name="title">제목</string>
+    <string name="post">Post</string>
+    <string name="name">이름</string>
+    <string name="email">Email</string>
+    <string name="timetable">시간표</string>
+    <string name="school_website">Url</string>
+    <string name="exams">시험</string>
+    <string name="teachers">선생님</string>
+    <string name="homeworks">숙제</string>
+    <string name="notes">메모</string>
+    <string name="delete">삭제</string>
+    <string name="selected">선택</string>
+    <string name="school_website_setting">Change school website</string>
+    <string name="school_website_setting_summary">Change URL of your school website</string>
+    <string name="date_error">일정이 없습니다.</string>
+    <string name="time_error">일정이 없습니다.</string>
+    <string name="add_exam">시험 추가</string>
+    <string name="choose_time">시간 선택</string>
+    <string name="choose_date">날자 선택</string>
+    <string name="title_error">일정이 없습니다.</string>
+    <string name="add_note">메모 추가</string>
+    <string name="edit_note">메모 수정</string>
+    <string name="add_teacher">선생님 추가</string>
+    <string name="edit_teacher">선생님 수정</string>
+    <string name="deadline_snackbar">일정이 없습니다.</string>
+    <string name="add_homework">숙제 추가</string>
+    <string name="edit_homework">숙제 수정</string>
+    <string name="add_subject">과목 추가</string>
+    <string name="edit_subject">과목 수정</string>
+    <string name="notification_title">오늘의 일정</string>
+    <string name="do_not_have_lessons">일정이 없습니다.</string>
+    <string name="field_error">f일정이 없습니다.</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="school_website_snackbar">Please, set URL of your school website in settings.</string>
+    <string name="saved">Saved</string>
+    <string name="sevendays_setting">Enable 7 Days of the Week</string>
+    <string name="seven_days_of_the_week">7 Days of the Week</string>
+</resources>
